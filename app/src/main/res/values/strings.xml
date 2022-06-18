@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Plus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recent">Recent</string>
+    <string name="popular">Popular</string>
+    <string name="buy_ticket">Buy ticket</string>
+    <string name="saved_movies">Saved Movies</string>
+    <string name="not_found">Search results not found!</string>
+    <string name="will_be_later">will be later!</string>
+</resources>
